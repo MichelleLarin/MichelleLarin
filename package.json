@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-expo",
+  "version": "1.0.0",
+  "description": "esta es la prueba para la app de mi proyecto expo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michelle larin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
