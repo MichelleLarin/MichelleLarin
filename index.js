@@ -237,3 +237,4 @@ app.listen(3000, function () {
 // 3. Llegar a una solucion estable
 //   3.1 Mejorar la solucion
 //   3.2 Terminar ejercicio
+//solo es para crear una nueva rama que me permita no perder compu :) es trabajo humilde pero honrado 
